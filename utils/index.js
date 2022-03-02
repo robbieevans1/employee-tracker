@@ -26,8 +26,6 @@ function questions() {
                   'Add an employee',
                   'Add a department',
                   'Add a role',
-                  'Update employee role',
-                  'Delete an employee',
                   'EXIT'
                   ]
           }).then(function (answer) {
@@ -50,12 +48,6 @@ function questions() {
                   case 'Add a role':
                       addRole();
                       break;
-                  case 'Update employee role':
-                      updateRole();
-                      break;
-                  case 'Delete an employee':
-                      deleteEmployee();
-                      break;
                   case 'EXIT': 
                       exitApp();
                       break;
@@ -66,9 +58,6 @@ function questions() {
 };
 
 
-
-
-// exit the app
 function exitApp() {
     connection.end();
 };
