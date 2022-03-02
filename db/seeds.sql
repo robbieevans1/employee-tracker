@@ -10,7 +10,7 @@ INSERT INTO roles (title, salary, department_id)
 VALUES 
     ('CEO', 1000000.00, 1),
     ('Sales Manager', 100000.00, 2),
-    ('Sales Representatice', 50000.00, 2),
+    ('Sales Representative', 50000.00, 2),
     ('HR Manager', 75000.00, 3),
     ('HR Generalist', 50000.00, 3),
     ('IT Manager', 100000.00, 4),

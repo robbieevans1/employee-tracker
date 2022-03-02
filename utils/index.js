@@ -2,9 +2,9 @@
 const inquirer = require('inquirer');
 const connection = require('../config/connection')
 
-const addDepartment = require('./add_department')
-const addEmployee = require('./add_employee')
-const addRole = require('./add_role')
+const addDepartment = require('./add_departments')
+const addEmployee = require('./add_employees')
+const addRole = require('./add_roles')
 const viewDepartments = require('./view_departments')
 const viewEmployees = require('./view_employees')
 const viewRoles = require('./view_roles')
