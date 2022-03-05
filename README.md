@@ -5,7 +5,7 @@
 ### https://choosealicense.com/licenses/mit/
 
 ## Project Description
-This project is a command-line application that manages a company's empoyee data which enables a business to view and manage the departments, roles, and employees in their company. This will enable them to oraganize and plan their business.
+This project is a command-line application that manages a company's empoyee data which enables a business to view and manage the departments, roles, and employees in their company. This will enable them to oraganize and plan their business. Here is a link to a video demo of the application: https://drive.google.com/file/d/1q5qKNaKBstEQopRqywVTNFDSi9mjJjaM/view
 
 ## Table of Contents:
 - [Installation Instructions](#installation)
