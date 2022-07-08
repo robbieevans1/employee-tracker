@@ -31,7 +31,4 @@ Allows a business to manage their employees, departments and roles.
 
 ## Questions
 ### if you have any questions, please don't hesitate to reach out to me at
-### Github: https://github.com/robcabobb
-### or
-### Email: robcabobb@gmail.com
-# employee-tracker2
+### Github: https://github.com/robbieevans1
